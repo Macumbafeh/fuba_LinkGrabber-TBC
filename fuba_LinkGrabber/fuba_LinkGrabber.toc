@@ -1,0 +1,8 @@
+## Interface: 20400
+## Version: v1.0
+## Title: |cff0080fffuba's|r |cffff8000Link Grabber|r TBC
+## Notes: Simple way to get a link from Buffs, Quests, ...!
+## Author: fuba
+## Original-Author: MrCaira
+
+fuba_LinkGrabber.lua

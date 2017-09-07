@@ -1,0 +1,11 @@
+<Bindings>
+   <!-- <Binding name="Grab Link" header="fuba's Link Grabber" runOnUp="true"> -->
+   <Binding name="Grab Link" header="|cff0080fffuba's|r |cffff8000Link Grabber|r" runOnUp="true">        
+		if keystate == "down" then
+		  FUBA_LINKGRABBER_UPDATETOOLTIP = true
+		else
+		  FUBA_LINKGRABBER_UPDATETOOLTIP = false
+		end
+		linkGrabberRun()
+    </Binding>
+</Bindings>
