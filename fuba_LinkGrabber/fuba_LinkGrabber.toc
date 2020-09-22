@@ -4,5 +4,6 @@
 ## Notes: Simple way to get a link from Buffs, Quests, ...!
 ## Author: fuba
 ## Original-Author: MrCaira
+## RequiredDeps: !Compatibility
 
 fuba_LinkGrabber.lua
