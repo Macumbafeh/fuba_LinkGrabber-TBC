@@ -1,6 +1,7 @@
 # fuba_LinkGrabber-TBC
 This AddOn is a Backport or rather a Re-Write of the AddOn **Wowhead Link Grabber** and **Wowhead Link** but for TBC
-Mostly this AddOn is used for Information and Development of other AddOns.
+Mostly this AddOn is used for Information and Development of other AddOns.  
+This AddOn **Requires** [Compatibility-Addon-for-TBC](https://github.com/fuba82/Compatibility-Addon-for-TBC) to work!  
 
 ### This AddOn allows you to Grab Database-Link(s) form:
 * Buffs / Debuffs
